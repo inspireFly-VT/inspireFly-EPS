@@ -1,0 +1,129 @@
+(footprint "CAPPRD500W60D1000H1250"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.55 -6.335 0)
+		(layer "F.SilkS")
+		(uuid "819e2037-76e8-42de-9e0d-153df5b42719")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAPPRD500W60D1000H1250"
+		(at 11.345 6.315 0)
+		(layer "F.Fab")
+		(uuid "8753e010-65f4-49e8-8bd4-475d76cc0a5f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fcef3982-6561-43be-8071-a95d58a1c459")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "daf6654d-9a88-4115-97c7-14af15818261")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "905ca1c5-cba3-49e1-bebd-3f0ff7bb68e5")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 5.25 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f4b1b001-ea67-402e-9e83-9e298fc8bc6e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "984ef6d5-29b4-4c54-9ddb-a90ed201d8ec")
+	)
+	(fp_text user "+"
+		(at -6.5 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "68002841-8185-4cc5-961b-564047e103c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "N" thru_hole circle
+		(at 2.5 0)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f347f8c6-da6a-4096-bc3d-6c716ba5bce0")
+	)
+	(pad "P" thru_hole rect
+		(at -2.5 0)
+		(size 1.2 1.2)
+		(drill 0.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "4fc58435-d2fc-40a0-ae3e-2b02d54b3620")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/shane/Downloads/EEUFC1J820.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
