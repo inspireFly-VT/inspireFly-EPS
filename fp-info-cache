@@ -1,4 +1,4 @@
-24751340013834022
+24753089706209116
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99553,6 +99553,13 @@ STM32U575RIT6
 0
 64
 64
+inspireFly-EPS-footprints
+SDT5A60SA13
+SDT5A60SA-13-1
+Schottky Diode
+0
+2
+2
 inspireFly-EPS-footprints
 TRANS_SQJA62EP-T1_GE3
 

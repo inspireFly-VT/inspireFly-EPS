@@ -1,0 +1,224 @@
+(footprint "SDT5A60SA13"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SDT5A60SA-13-1")
+	(tags "Schottky Diode")
+	(property "Reference" "D**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "0882ddfe-33e2-4522-88e1-cc87bb8cdeb0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SDT5A60SA13"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2c673d43-d3d1-432d-918a-f170cbc67fee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9df8c606-b616-4891-a9b4-9f5875ce1023")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "276a7bce-a106-49be-ae9a-9f759db60fe6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.8 0)
+		(end -3.8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b2a7045c-4c8a-4ed9-925d-2434f921323b")
+	)
+	(fp_line
+		(start -3.7 0)
+		(end -3.7 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "42cc331c-bcce-4f44-87bb-3cb64e7ae441")
+	)
+	(fp_line
+		(start -1.9 -1.3)
+		(end 1.9 -1.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "917f5223-5fe7-4db4-a204-607d820cfc2f")
+	)
+	(fp_line
+		(start -1.9 1.3)
+		(end 1.9 1.303)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "089802b7-6005-47b4-b0bb-c54d1eb76a2a")
+	)
+	(fp_arc
+		(start -3.8 0)
+		(mid -3.75 -0.05)
+		(end -3.7 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1340a421-e722-4df5-8798-21123e319fab")
+	)
+	(fp_arc
+		(start -3.7 0)
+		(mid -3.75 0.05)
+		(end -3.8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9fd61379-ecf1-4e15-a7a4-cd5ba77744df")
+	)
+	(fp_line
+		(start -4.25 -2.303)
+		(end 4.25 -2.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "cb4dd5b1-17d4-4940-9d46-0f88c5ca85a0")
+	)
+	(fp_line
+		(start -4.25 2.303)
+		(end -4.25 -2.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3e7a8db5-2eaf-4f40-946c-4d1509b5ca52")
+	)
+	(fp_line
+		(start -2.15 -1.303)
+		(end 2.15 -1.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7129597f-0f75-4cab-b654-57e2a446fcd7")
+	)
+	(fp_line
+		(start -2.15 1.303)
+		(end -2.15 -1.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4f2ec87e-d54c-4453-9658-26ac8e47b6ce")
+	)
+	(fp_line
+		(start 2.15 -1.303)
+		(end 2.15 1.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8372e667-95e7-4522-b5e3-a763befd54dd")
+	)
+	(fp_line
+		(start 2.15 1.303)
+		(end -2.15 1.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "97493ab8-d03d-42ad-a587-878227cdd72a")
+	)
+	(fp_line
+		(start 4.25 -2.303)
+		(end 4.25 2.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0db65f0d-9f31-476a-bb47-eb8b115a0f33")
+	)
+	(fp_line
+		(start 4.25 2.303)
+		(end -4.25 2.303)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ea835e4f-d747-4ae8-9151-11e5db425ab8")
+	)
+	(pad "1" smd rect
+		(at -2 0 90)
+		(size 1.7 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "bc6cc414-b5ae-4de8-b16d-b3bbe1ce6333")
+	)
+	(pad "2" smd rect
+		(at 2 0 90)
+		(size 1.7 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "984da44b-44d9-4420-a67e-e0e6d1476343")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/shane/Downloads/LIB_SDT5A60SA-13/SDT5A60SA-13/3D/SDT5A60SA-13.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
