@@ -1,4 +1,4 @@
-24753089706209116
+24754839640446432
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99560,6 +99560,13 @@ Schottky Diode
 0
 2
 2
+inspireFly-EPS-footprints
+SOT95P280X145-5N
+
+
+0
+5
+5
 inspireFly-EPS-footprints
 TRANS_SQJA62EP-T1_GE3
 
