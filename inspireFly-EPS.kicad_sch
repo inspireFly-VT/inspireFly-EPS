@@ -8038,6 +8038,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 341.63) (xy 118.11 341.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51f80fad-5f22-4203-8d87-eb6c7ca3c8c8")
+	)
+	(wire
+		(pts
 			(xy 44.45 245.11) (xy 46.99 245.11)
 		)
 		(stroke
@@ -8125,16 +8135,6 @@
 			(type default)
 		)
 		(uuid "57655249-ab80-44f7-a7db-e5178bf22633")
-	)
-	(wire
-		(pts
-			(xy 109.22 341.63) (xy 118.11 341.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57900ac5-ca9a-4077-a3e5-1da68bb8356d")
 	)
 	(wire
 		(pts
@@ -9308,6 +9308,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 339.09) (xy 118.11 339.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9316f295-2250-4798-a77f-f666bad035cf")
+	)
+	(wire
+		(pts
 			(xy 386.08 234.95) (xy 396.24 234.95)
 		)
 		(stroke
@@ -9385,16 +9395,6 @@
 			(type default)
 		)
 		(uuid "9952b18d-96bf-4483-96b2-07389f26dd00")
-	)
-	(wire
-		(pts
-			(xy 109.22 339.09) (xy 118.11 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99bb69d9-7a4f-49c2-9c02-a98a4e01428b")
 	)
 	(wire
 		(pts
@@ -11270,7 +11270,7 @@
 	)
 	(global_label "I2C3-SCL"
 		(shape input)
-		(at 109.22 341.63 180)
+		(at 109.22 339.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11280,7 +11280,7 @@
 		)
 		(uuid "581c7009-b733-4525-a6da-bffb1afc0d6d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.861 341.63 0)
+			(at 96.861 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11578,7 +11578,7 @@
 	)
 	(global_label "I2C3-SDA"
 		(shape input)
-		(at 109.22 339.09 180)
+		(at 109.22 341.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11588,7 +11588,7 @@
 		)
 		(uuid "94f933e5-7f8e-42a7-8d24-39c454e05ee8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.8005 339.09 0)
+			(at 96.8005 341.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
