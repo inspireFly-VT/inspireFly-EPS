@@ -56,32 +56,7 @@
 	(attr smd)
 	(fp_poly
 		(pts
-			(xy -1.5506 -0.902589) (xy -0.9794 -0.902589) (xy -0.8394 -0.762589) (xy -0.8394 -0.597789) (xy -1.5506 -0.597789)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Cu")
-		(uuid "b82c8a7f-bda7-439b-bc73-942a50509a18")
-	)
-	(fp_poly
-		(pts
-			(xy -0.052726 -1.549701) (xy -0.357526 -1.549701) (xy -0.357526 -0.839701) (xy -0.262726 -0.748301)
-			(xy -0.262726 -0.127301) (xy -0.052726 -0.127301)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Cu")
-		(uuid "a31b18aa-fd25-4ba9-9ade-26a0edaf506d")
-	)
-	(fp_poly
-		(pts
-			(xy -1.5506 -0.902589) (xy -0.9794 -0.902589) (xy -0.8394 -0.762589) (xy -0.8394 -0.597789) (xy -1.5506 -0.597789)
+			(xy -1.5506 -0.902589) (xy -0.8394 -0.902589) (xy -0.8394 -0.597789) (xy -1.5506 -0.597789)
 		)
 		(stroke
 			(width 0)
@@ -90,19 +65,6 @@
 		(fill yes)
 		(layer "F.Mask")
 		(uuid "67720fb0-baae-48ae-ba06-d793b3104498")
-	)
-	(fp_poly
-		(pts
-			(xy -0.052726 -1.549701) (xy -0.357526 -1.549701) (xy -0.357526 -0.839701) (xy -0.262726 -0.748301)
-			(xy -0.262726 -0.127301) (xy -0.052726 -0.127301)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "590bc001-511b-4134-9c12-3117a6027d6d")
 	)
 	(fp_line
 		(start -1.3716 -1.3716)
@@ -146,7 +108,7 @@
 	)
 	(fp_poly
 		(pts
-			(xy -1.5506 -0.902589) (xy -0.9794 -0.902589) (xy -0.8394 -0.762589) (xy -0.8394 -0.597789) (xy -1.5506 -0.597789)
+			(xy -1.5506 -0.902589) (xy -0.8394 -0.902589) (xy -0.8394 -0.597789) (xy -1.5506 -0.597789)
 		)
 		(stroke
 			(width 0)
@@ -155,19 +117,6 @@
 		(fill yes)
 		(layer "F.Paste")
 		(uuid "fc3f50a0-72c0-474a-a336-d425675bb1fc")
-	)
-	(fp_poly
-		(pts
-			(xy -0.052726 -1.549701) (xy -0.357526 -1.549701) (xy -0.357526 -0.839701) (xy -0.262726 -0.748301)
-			(xy -0.262726 -0.127301) (xy -0.052726 -0.127301)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Paste")
-		(uuid "2c932f64-4048-4f5e-8a41-c8f8f0a76486")
 	)
 	(fp_line
 		(start -1.8046 -1.156589)
@@ -490,9 +439,9 @@
 	)
 	(pad "1" smd rect
 		(at -1.195 -0.750189)
-		(size 0.127 0.127)
+		(size 0.7112 0.3048)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "b382cc90-0271-4230-b38d-e04119664fb5")
+		(uuid "da10dde0-9fe1-4160-984f-866cd14ab1a6")
 	)
 	(pad "2" smd rect
 		(at -1.195 -0.250063)
@@ -555,10 +504,10 @@
 		(uuid "d6e4083c-21e5-4b2c-9f30-f477e7d15bc2")
 	)
 	(pad "12" smd rect
-		(at -0.2032 -1.0922 90)
-		(size 0.127 0.127)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "e6b86c98-2ba2-4094-8f34-3c48b350a2df")
+		(at -0.21 -0.84 90)
+		(size 1.4224 0.3048)
+		(layers "F.Cu" "F.Paste")
+		(uuid "c61f40de-8847-416c-a369-14dcb7ee4dea")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/3D Files/MAXIM_90-100140.step"
