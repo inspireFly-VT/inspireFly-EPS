@@ -358,7 +358,7 @@
 		(uuid "29e68bfa-bb8e-4c20-9564-00a86f18ee98")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/EEEFN1J470L.STEP"
+	(model "${KIPRJMOD}/3D Files/EEEFN1J470L.step"
 		(offset
 			(xyz 0 0 0)
 		)

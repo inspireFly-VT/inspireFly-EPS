@@ -223,7 +223,7 @@
 		(uuid "4a5b195d-18f7-44d7-bbd0-2186b6aee335")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/INA180A3IDBVT/INA180A3IDBVT.step"
+	(model "${KIPRJMOD}/3D Files/INA180A3IDBVT.step"
 		(offset
 			(xyz 0 0 0)
 		)

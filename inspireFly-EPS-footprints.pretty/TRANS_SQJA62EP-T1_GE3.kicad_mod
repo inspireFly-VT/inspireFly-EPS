@@ -324,7 +324,7 @@
 		(uuid "99619bbf-0d2e-4597-8b5e-b91ed5488c86")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/SQJA62EP-T1_GE3.STEP"
+	(model "${KIPRJMOD}/3D Files/SQJA62EP-T1_GE3.step"
 		(offset
 			(xyz 0 0 0)
 		)

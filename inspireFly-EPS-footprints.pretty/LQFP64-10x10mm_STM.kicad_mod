@@ -874,7 +874,7 @@
 		(uuid "96f6ce93-0b8b-4edf-a364-af4d516597d3")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/STM32U575RIT6/LQFP64-10x10mm_STM.step"
+	(model "${KIPRJMOD}/3D Files/LQFP64-10x10mm_STM.step"
 		(offset
 			(xyz 0 0 0)
 		)

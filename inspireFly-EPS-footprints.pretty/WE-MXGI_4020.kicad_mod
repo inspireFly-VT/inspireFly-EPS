@@ -237,7 +237,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/7443844020022 (1)/STP_WE-MXGI_4020_rev1.stp"
+	(model "${KIPRJMOD}/3D Files/STP_WE-MXGI_4020_rev1.stp"
 		(offset
 			(xyz 0 0 2)
 		)

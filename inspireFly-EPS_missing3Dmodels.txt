@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2025-08-03 19:24
+### Printed by checking_3D_models plugin
+Board file: C:\Users\shane\Documents\GitHub\inspireFly-EPS\inspireFly-EPS.kicad_pcb
+3D missing models written to:
+C:\Users\shane\Documents\GitHub\inspireFly-EPS\inspireFly-EPS_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']

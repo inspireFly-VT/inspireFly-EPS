@@ -295,7 +295,7 @@
 		(uuid "cdc1758a-0241-4995-94f9-a7ff92602b71")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/BK_18650_PC4/BK-18650-PC4.step"
+	(model "${KIPRJMOD}/3D Files/BK-18650-PC4.step"
 		(offset
 			(xyz 0 0 -3.5)
 		)

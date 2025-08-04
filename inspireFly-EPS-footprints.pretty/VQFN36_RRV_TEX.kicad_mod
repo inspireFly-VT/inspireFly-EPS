@@ -1861,18 +1861,6 @@
 	)
 	(fp_text user "*"
 		(at -3.6449 -2.250567 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "6fe90877-6254-417d-8434-b8877c887997")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -3.6449 -2.250567 0)
 		(layer "F.SilkS")
 		(uuid "999f3c72-e0be-4442-ad50-3ac403b82cee")
 		(effects
@@ -2140,7 +2128,7 @@
 		(uuid "a7482b13-601d-4b7f-846e-1ec87237b9c7")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/BQ25750RRVR/RRV0036A.stp"
+	(model "${KIPRJMOD}/3D Files/RRV0036A.stp"
 		(offset
 			(xyz 0 0 0)
 		)

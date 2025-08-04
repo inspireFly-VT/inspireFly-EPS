@@ -384,7 +384,7 @@
 		(uuid "0bda5c8f-204e-49c0-892c-63c5343cd154")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/shane/Downloads/USB4085_GF_A/USB4085-GF-A_REVB.step"
+	(model "${KIPRJMOD}/3D Files/USB4085-GF-A_REVB.step"
 		(offset
 			(xyz 0 0.3 -0.5)
 		)
