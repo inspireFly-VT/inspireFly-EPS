@@ -1,4 +1,4 @@
-24763668418155761
+24769333841453383
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57455,6 +57455,13 @@ emi filter
 0
 5
 5
+FlatPitchedCablePads
+Flatpitched Cable Pads
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
+2
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165
 Littelfuse fuse holder for ATO/FKS blade fuses, 80V, vertical, 20 x 6mm, PCB thickness up to 1.5mm, http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf
@@ -89866,7 +89873,14 @@ SPST SPDT DC TE0598-P2
 7
 7
 Resistor_SMD
-R_0201_0603Metric
+Flatpitched Cable Pads
+Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+resistor
+0
+4
+2
+Resistor_SMD
+Flatpitched Cable Pads 
 Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
 resistor
 0
@@ -99553,6 +99567,13 @@ STM32U575RIT6
 0
 64
 64
+inspireFly-EPS-footprints
+SAMTEC_FTSH-107-01-L-DV-K-A
+translated Allegro footprint
+
+0
+14
+14
 inspireFly-EPS-footprints
 SDT5A60SA13
 SDT5A60SA-13-1
