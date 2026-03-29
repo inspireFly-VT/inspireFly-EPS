@@ -1,0 +1,246 @@
+(footprint "WE-XHMA_1090"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.17 -6.635 0)
+		(layer "F.SilkS")
+		(uuid "8c9617b3-6659-48fc-85bf-f73f073f6b8e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WE-XHMA_1090"
+		(at 0 6.865 0)
+		(layer "F.Fab")
+		(uuid "c0d17841-83c1-4cdd-8b59-d9750811e201")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75722b3a-8ee5-4b4a-84a2-9a914810439d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fca12141-32f6-4681-b9f0-71aad5436aa1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -5.9 -5.35)
+		(end 5.9 -5.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9ba9bcb4-ea5d-409e-93b5-b05f97427a75")
+	)
+	(fp_line
+		(start -5.9 5.35)
+		(end -5.9 -5.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "621320a6-4268-4a16-a6d2-b9f4f7ad68ef")
+	)
+	(fp_line
+		(start 5.9 -5.35)
+		(end 5.9 5.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "03ee8f1f-375f-4b88-bce2-cf8e41314ef6")
+	)
+	(fp_line
+		(start 5.9 5.35)
+		(end -5.9 5.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0b904f2-b462-43b2-ae4b-643dadc3d534")
+	)
+	(fp_circle
+		(center -7 -4.2)
+		(end -6.7 -4.2)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "402caa3b-1f6c-455f-b228-01474341a563")
+	)
+	(fp_poly
+		(pts
+			(xy -6.1 -5.55) (xy 6.1 -5.55) (xy 6.1 5.55) (xy -6.1 5.55)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "f3173353-e46d-4432-9545-c7415c982541")
+	)
+	(fp_line
+		(start -5.8 -5.25)
+		(end 5.8 -5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cbcc3b46-d285-4d13-85f0-613c88405058")
+	)
+	(fp_line
+		(start -5.8 5.25)
+		(end -5.8 -5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b34e1ee1-7d24-484e-84b8-950fa97040d0")
+	)
+	(fp_line
+		(start -5.8 5.25)
+		(end 5.8 5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "15c00391-a297-4c1f-bfe1-18b85a53795a")
+	)
+	(fp_line
+		(start 5.8 -5.25)
+		(end 5.8 5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "747dcd05-f6fb-46af-902a-2c6774f083d9")
+	)
+	(pad "1" smd rect
+		(at 0 -3.2)
+		(size 9 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "db7f7456-9ff2-4fa1-b031-d86dd0b2d28f")
+	)
+	(pad "2" smd rect
+		(at 0 3.2)
+		(size 9 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "5df495cd-7d06-43eb-8b81-ae121f223ae1")
+	)
+	(zone
+		(layer "F.Cu")
+		(uuid "4728f837-e89e-42cb-bdb9-2984b39219fd")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.1)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -5.7 -1.9) (xy 5.7 -1.9) (xy 5.7 1.9) (xy -5.7 1.9)
+			)
+		)
+	)
+	(zone
+		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(uuid "e886eede-a1ff-4f50-a8ae-cf7d8a23ee3b")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.1)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -5.7 -1.9) (xy 5.7 -1.9) (xy 5.7 1.9) (xy -5.7 1.9)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D Files/STP_WE-XHMA-1090_78439369100+%28rev1%29.stp"
+		(offset
+			(xyz 0 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
