@@ -1,0 +1,194 @@
+(footprint "CH3R6155CF-ZJN"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b89e89ac-4dfd-42c3-b641-32ceb19b4944")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CH3R6155CF-ZJN"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c316ee65-98bf-4cad-9e64-6aaf1f261ac5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d937dea2-a96d-40f8-b9de-0f1fa13dc047")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b38ce30-0cf6-4f9d-845c-06a19d1ebc34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 10.75 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d13f78e4-7bdf-403e-a10d-0e9e3ce5a85f")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 10.75 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "d75a22e2-777c-4916-8809-9377868a884d")
+	)
+	(fp_text user "+"
+		(at -5.5 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4bd3a4d5-8577-4f50-98a0-e17f2e02d93d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "REF**"
+		(at -1.5 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "acdc781d-6569-438a-b601-7a444ade0b00")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "-"
+		(at 4 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "78de49e5-7c54-4bd1-b11b-db59ef7a6094")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fda09623-e5bc-47f2-b362-9ae42c66e6cf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -2.5 0)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "066c1031-920a-4443-8a60-4c0daf36d812")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5350b48a-d094-480e-b211-8aaf9c1264d1")
+	)
+	(zone
+		(layer "F.SilkS")
+		(uuid "bb9818f6-4684-41c3-9538-9d2f0a18c02c")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(arc
+					(start -10.75 0)
+					(mid 10.75 0)
+					(end -10.75 0)
+				)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/SuperCapacitor_CType.step"
+		(offset
+			(xyz 0 0 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
