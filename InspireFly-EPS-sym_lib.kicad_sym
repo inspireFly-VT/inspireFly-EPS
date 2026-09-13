@@ -1029,54 +1029,6 @@
 			)
 		)
 		(symbol "BQ25173DSGR_0_1"
-			(polyline
-				(pts
-					(xy 5.08 5.08) (xy 5.08 -25.4)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 -25.4) (xy 40.64 -25.4)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 40.64 5.08) (xy 5.08 5.08)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 40.64 -25.4) (xy 40.64 5.08)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin input line
 				(at 0 0 0)
 				(length 5.08)
@@ -1132,7 +1084,7 @@
 				)
 			)
 			(pin power_in line
-				(at 45.72 -22.86 180)
+				(at 35.56 -22.86 180)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -1150,7 +1102,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 -15.24 180)
+				(at 35.56 -15.24 180)
 				(length 5.08)
 				(name "STAT"
 					(effects
@@ -1168,7 +1120,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 45.72 -7.62 180)
+				(at 35.56 -7.62 180)
 				(length 5.08)
 				(name "PG_N"
 					(effects
@@ -1204,7 +1156,7 @@
 				)
 			)
 			(pin output line
-				(at 45.72 0 180)
+				(at 35.56 0 180)
 				(length 5.08)
 				(name "OUT"
 					(effects
@@ -1222,7 +1174,7 @@
 				)
 			)
 			(pin power_in line
-				(at 45.72 -20.32 180)
+				(at 35.56 -20.32 180)
 				(length 5.08)
 				(name "Thermal_Pad"
 					(effects
@@ -1237,6 +1189,19 @@
 							(size 1.27 1.27)
 						)
 					)
+				)
+			)
+		)
+		(symbol "BQ25173DSGR_1_1"
+			(rectangle
+				(start 5.08 2.54)
+				(end 30.48 -25.4)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
 				)
 			)
 		)
