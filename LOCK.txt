@@ -10,8 +10,3 @@ STATUS: List what you are doing
 Remember to remove your 'LOCK' when done and ensure that push has relevant comments to actions done.
 
 Log:
-
-FILE: inspireFly-EPS.kicad_pcb
-LOCKED BY: Jack Fangman (jackf23)
-START: 9/15/26 5:33 PM EST
-STATUS: SuperCap Array Routing

@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "cea7b112-7893-452e-826d-bfd5ceb1bf29")
+		(uuid "2159bbc5-a30a-49c3-bdb2-8e300b8c7565")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "e0eb5be5-90c9-49db-b569-44aa8d5db3ec")
+		(uuid "d5f2489d-7080-475f-b3d0-2981465e80b2")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c7e463e6-2341-4fa7-90a4-0f4f5754dd17")
+		(uuid "596655c3-7c92-4735-9170-d9cb5592a7da")
 		(effects
 			(font
 				(size 1 1)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5e747f5c-9611-455f-99be-4ab0be1afc6f")
+		(uuid "c56ce569-77da-4eba-a3f1-ede3cfa01be3")
 		(effects
 			(font
 				(size 1 1)
@@ -65,7 +65,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "8c8947d6-9798-42ee-bc15-f0f1fb268bae")
+		(uuid "95bca457-d522-4df7-a07e-e0801fa79ba9")
 	)
 	(fp_circle
 		(center 0 0)
@@ -76,26 +76,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "826d4b35-0141-42b4-bfaf-a162041cf131")
+		(uuid "d1d8ed11-aa9d-4fda-a56b-5375fe431735")
 	)
 	(fp_text user "+"
 		(at -5.5 0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "17a82c75-3476-42d7-9910-a26c70555356")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
-	(fp_text user "REF**"
-		(at -1.5 -2 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "13a95531-07c0-4d80-a2ad-56c9f2c62682")
+		(uuid "7610df70-737e-44d7-8c70-755ae841fa6b")
 		(effects
 			(font
 				(size 1 1)
@@ -108,7 +95,7 @@
 		(at 4 0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "0c2db6d6-a4e8-43b4-bc44-b63766f9d0e3")
+		(uuid "59d7a85c-1782-4664-bdd4-11f174a814bb")
 		(effects
 			(font
 				(size 1 1)
@@ -121,7 +108,7 @@
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "7e4f9c1d-9617-4fd9-bdb2-8789b927487b")
+		(uuid "f444959f-27c0-492b-bb47-c0ee0b5d0249")
 		(effects
 			(font
 				(size 1 1)
@@ -135,7 +122,7 @@
 		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "c8531fc3-a517-4ee6-b2ce-e95b08bb6328")
+		(uuid "a2c154ba-a9d0-4e46-9534-409768503955")
 	)
 	(pad "2" thru_hole circle
 		(at 2.5 0)
@@ -143,11 +130,11 @@
 		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "e3253628-99b9-44d8-b210-0708dc00dbcd")
+		(uuid "99ca16b0-09e8-4359-b009-ea841bb16a0a")
 	)
 	(zone
 		(layer "F.SilkS")
-		(uuid "d1fa856b-1ac5-4fcb-ac7b-a0aa377b5a83")
+		(uuid "d96443e8-f732-4ce7-8875-ce088a3ce8f6")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -180,7 +167,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/SuperCapacitor_CType.step"
+	(model "${KIPRJMOD}/3D Files/SuperCapacitor_CType.step"
 		(offset
 			(xyz 0 0 4)
 		)
