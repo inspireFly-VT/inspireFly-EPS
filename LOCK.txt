@@ -11,7 +11,3 @@ Remember to remove your 'LOCK' when done and ensure that push has relevant comme
 
 Log:
 
-FILE: inspireFly-EPS.kicad_pcb
-LOCKED BY: Jack Fangman (jackf23)
-START: 9/25/26 7:43 PM EST
-STATUS: Routing microprocessor
