@@ -682,7 +682,7 @@
         "uuid": "85d7bd69-2813-405d-9eae-82e9bb551a95"
       }
     ],
-    "used_designators": "J6-8,#PWR26,#PWR77-78,#PWR86,#PWR127",
+    "used_designators": "#PWR128-129,J9",
     "variants": []
   },
   "sheets": [
