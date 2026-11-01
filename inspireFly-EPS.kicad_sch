@@ -11628,12 +11628,6 @@
 		(uuid "203d2532-8e69-4135-a7a7-9b6cd1315932")
 	)
 	(junction
-		(at 265.43 566.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "206c24eb-d335-4ce2-a469-21942b5130aa")
-	)
-	(junction
 		(at 219.71 356.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11706,6 +11700,12 @@
 		(uuid "30433d6e-5d7c-4e3e-aabc-34fa01bc22fd")
 	)
 	(junction
+		(at 276.86 566.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "305ba8d4-78d1-4ba8-a648-f78f247ca496")
+	)
+	(junction
 		(at 81.28 398.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11746,6 +11746,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36d36174-72bd-42b6-895e-a85dec4942b7")
+	)
+	(junction
+		(at 265.43 566.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c8c4a99-6fb6-4fc4-ad73-f38ce6029909")
 	)
 	(junction
 		(at 337.82 60.96)
@@ -11806,12 +11812,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a37f06a-335f-4504-ba8c-47ab453d7d5d")
-	)
-	(junction
-		(at 86.36 566.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b7e847c-2c2e-4d04-b014-38be52034907")
 	)
 	(junction
 		(at 133.35 97.79)
@@ -11934,12 +11934,6 @@
 		(uuid "6c7e51de-c4cb-47aa-a3a0-9c15ee4ec26c")
 	)
 	(junction
-		(at 97.79 566.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6dd38719-7acc-4f72-b29d-84bbd72d28e8")
-	)
-	(junction
 		(at 412.75 510.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12004,6 +11998,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c0343f8-3e32-4fa5-9eda-bd70a3555b0d")
+	)
+	(junction
+		(at 63.5 566.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7fa43a27-4832-4dbc-a1c9-f596877dfd37")
 	)
 	(junction
 		(at 120.65 95.25)
@@ -12222,6 +12222,12 @@
 		(uuid "ae5d18c9-124f-4849-9d38-1ee800aa4d77")
 	)
 	(junction
+		(at 86.36 566.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af143307-cf30-4e3d-9f92-2bb4c24b54cf")
+	)
+	(junction
 		(at 294.64 316.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12274,6 +12280,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd6e452c-1b9e-43e1-98f0-e69cb9462cd8")
+	)
+	(junction
+		(at 74.93 566.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be164801-c358-4e34-af29-d6765ca6bc50")
 	)
 	(junction
 		(at 102.87 566.42)
@@ -12340,6 +12352,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4bf40be-a2dc-4cfc-a6be-d0a9b168debb")
+	)
+	(junction
+		(at 97.79 566.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c514d8da-8d16-4bfb-9611-0f32c000b45e")
 	)
 	(junction
 		(at 207.01 566.42)
@@ -12472,6 +12490,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2c4d590-56b1-4703-87e4-c94b4ac73378")
+	)
+	(junction
+		(at 288.29 566.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2f5a165-a2a2-434b-992b-f88086f8669d")
 	)
 	(junction
 		(at 260.35 316.23)
@@ -14361,7 +14385,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 566.42) (xy 86.36 566.42)
+			(xy 55.88 566.42) (xy 63.5 566.42)
 		)
 		(stroke
 			(width 0)
@@ -15241,6 +15265,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 566.42) (xy 74.93 566.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67ac129b-b10c-4926-993b-6c281391b776")
+	)
+	(wire
+		(pts
 			(xy 219.71 373.38) (xy 219.71 375.92)
 		)
 		(stroke
@@ -15318,6 +15352,16 @@
 			(type default)
 		)
 		(uuid "693791b2-4eed-4324-90dd-ced767e1b000")
+	)
+	(wire
+		(pts
+			(xy 276.86 566.42) (xy 288.29 566.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69842fc2-b1c7-4f98-86fe-4b563b767a5a")
 	)
 	(wire
 		(pts
@@ -15758,6 +15802,16 @@
 			(type default)
 		)
 		(uuid "754e092d-17c6-46a7-93a6-fad81c643148")
+	)
+	(wire
+		(pts
+			(xy 74.93 566.42) (xy 86.36 566.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75b95c45-287b-44fd-b992-07875cbaf8ad")
 	)
 	(wire
 		(pts
@@ -17301,7 +17355,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 566.42) (xy 269.24 566.42)
+			(xy 265.43 566.42) (xy 276.86 566.42)
 		)
 		(stroke
 			(width 0)
@@ -18158,6 +18212,16 @@
 			(type default)
 		)
 		(uuid "d9d90c57-3a7c-4ad5-a7f2-62ec21574630")
+	)
+	(wire
+		(pts
+			(xy 288.29 566.42) (xy 292.1 566.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da241245-b636-43a7-aa7f-84bc6030a6d0")
 	)
 	(wire
 		(pts
@@ -20889,7 +20953,7 @@
 	)
 	(global_label "BAT+"
 		(shape bidirectional)
-		(at 269.24 566.42 0)
+		(at 292.1 566.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20899,7 +20963,7 @@
 		)
 		(uuid "86441ce5-9c9b-4507-b374-8b7235e9d689")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.2351 566.42 0)
+			(at 301.0951 566.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21753,7 +21817,7 @@
 	)
 	(global_label "EXTERNAL_VOLTAGE"
 		(shape input)
-		(at 77.47 566.42 180)
+		(at 55.88 566.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21763,7 +21827,7 @@
 		)
 		(uuid "e2934622-830e-4ddf-a534-3f03254d9ff6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.4025 566.42 0)
+			(at 34.8125 566.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24078,6 +24142,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 288.29 558.8 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0eb3be2e-cc2a-4224-9a41-d6a08ea23fe5")
+		(property "Reference" "#PWR0139"
+			(at 288.29 552.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 288.036 554.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 288.29 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 288.29 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 288.29 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5780124f-aca8-46cb-8839-95a92763344d")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "#PWR0139")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 308.61 328.93 180)
 		(unit 1)
@@ -26335,6 +26476,83 @@
 			(project "inspireFly-EPS"
 				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
 					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 558.8 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1b0c01e8-ed1f-470d-a231-afe1625c6e7d")
+		(property "Reference" "#PWR0140"
+			(at 63.5 552.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 63.246 554.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "20304b40-796e-4be5-93d4-ee041d2521a5")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "#PWR0140")
 					(unit 1)
 				)
 			)
@@ -37573,6 +37791,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 63.5 562.61 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8299cc9b-32f4-45fc-9106-835dad221724")
+		(property "Reference" "C87"
+			(at 59.69 563.8801 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22uF"
+			(at 59.69 561.3401 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 62.5348 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 63.5 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8e8c00dc-472b-4519-be49-d0ca40e204d7")
+		)
+		(pin "1"
+			(uuid "f120f163-fe8f-4135-a09c-73c8770f3bce")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "C87")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Simulation_SPICE:NMOS")
 		(at 269.24 347.98 0)
 		(unit 1)
@@ -42416,6 +42716,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 288.29 562.61 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b269504d-0414-4f98-b2fe-b1dcde0b377b")
+		(property "Reference" "C86"
+			(at 284.48 563.8801 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22uF"
+			(at 284.48 561.3401 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 287.3248 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 288.29 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 288.29 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3ac21bda-8e01-4c23-8700-0e27d653c036")
+		)
+		(pin "1"
+			(uuid "79d80106-c4ec-4821-a82d-91cae344b1ac")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "C86")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 191.77 344.17 90)
 		(unit 1)
@@ -42827,6 +43209,88 @@
 			(project "inspireFly-EPS"
 				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
 					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 276.86 562.61 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4ab18df-7623-4342-9bc1-f7500c340683")
+		(property "Reference" "C85"
+			(at 273.05 563.8801 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22uF"
+			(at 273.05 561.3401 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 275.8948 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 276.86 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f428bc5d-d55f-4541-ba26-3fbb87a575d9")
+		)
+		(pin "1"
+			(uuid "76710da6-23e4-4c71-8e73-042615289ec3")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "C85")
 					(unit 1)
 				)
 			)
@@ -48482,6 +48946,83 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 276.86 558.8 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e9a66301-8f0b-4390-a715-6bc2fc8de92e")
+		(property "Reference" "#PWR0138"
+			(at 276.86 552.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 276.606 554.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 276.86 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3a300582-5d18-4fd7-bdf8-1375872ab8ff")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "#PWR0138")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 445.77 59.69 90)
 		(unit 1)
 		(body_style 1)
@@ -49353,6 +49894,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 74.93 562.61 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f21e2b87-79e6-43ac-9309-39432e4244f0")
+		(property "Reference" "C88"
+			(at 71.12 563.8801 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22uF"
+			(at 71.12 561.3401 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 73.9648 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 74.93 562.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3904407e-deac-4be1-b6b5-0b0bfdbe9393")
+		)
+		(pin "1"
+			(uuid "2e1a59db-408e-4b7e-9126-5ea3db29b5c9")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "C88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 378.46 215.9 90)
 		(unit 1)
@@ -49658,6 +50281,83 @@
 			(project "inspireFly-EPS"
 				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
 					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 74.93 558.8 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f555a627-d4c7-467e-95ff-1b8c1942df91")
+		(property "Reference" "#PWR0141"
+			(at 74.93 552.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 74.676 554.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 74.93 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 74.93 558.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d277f5fa-45d5-445c-88cc-d05c9812da29")
+		)
+		(instances
+			(project "inspireFly-EPS"
+				(path "/85d7bd69-2813-405d-9eae-82e9bb551a95"
+					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
