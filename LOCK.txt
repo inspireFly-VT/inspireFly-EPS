@@ -11,4 +11,8 @@ Remember to remove your 'LOCK' when done and ensure that push has relevant comme
 
 Log:
 
+FILE: inspireFly-EPS.kicad_pcb , inspireFly-EPS.kicad_sch
+LOCKED BY: Jack Fangman (jackf23)
+START: 11/1/26 12:15pm
+STATUS: Adding caps for voltage deration
 
